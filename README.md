@@ -1,6 +1,7 @@
 # ParamConverter
 
-A simple net/http compatible middleware in Go 1.16 which aims to facilitate conversion of parameters into usable object.
+A simple net/http compatible middleware written in Go 1.16 which aims to facilitate conversion of parameters into usable
+object.
 It is highly inspired by a [Symfony ParamConverter](https://symfony.com/doc/current/bundles/SensioFrameworkExtraBundle/annotations/converters.html)
 usage I have.
 
